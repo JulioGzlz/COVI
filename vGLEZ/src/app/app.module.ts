@@ -8,6 +8,8 @@ import { TodoCaracteristicasComponent } from './todo/todo-caracteristicas/todo-c
 import { CasaComponent } from './casa/casa.component';
 import { MenuComponent } from './menu/menu.component';
 import { PreciosComponent } from './precios/precios.component';
+import { DomiciliosComponent } from './domicilios/domicilios.component';
+import { DepartamentosComponent } from './departamentos/departamentos.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +17,9 @@ import { PreciosComponent } from './precios/precios.component';
     TodoCaracteristicasComponent,
     CasaComponent,
     MenuComponent,
-    PreciosComponent
+    PreciosComponent,
+    DomiciliosComponent,
+    DepartamentosComponent
   ],
   imports: [
     BrowserModule,
