@@ -1,0 +1,69 @@
+Se requiere un sitio web para una constructora
+que vende Departamentos y Casas
+
+
+Su sitio web debe estar conformado por un 
+-Inicio : Home (pagina principal)
+-Casas
+-Departamentos
+-Asesores
+
+El proyecto debe realizarse en angular 8
+con sus componentes que se ruteen en un menu principal
+Cada componente debe tener un formulario simple de bootstrap
+Componentes:
+-Casas
+-Departamentos
+-Asesores
+
+ng g c _myComponente  <---comando en angular cli para crear componente.
+
+El proyecto debe estar configurado
+bootstrap
+---Pasos para configurar bootstrap en el proyecto.
+1-Descargar bootstrap desde el npm	
+	-npm install bootstrap @ng-bootstrap/ng-bootstrap --save 
+2- Configurar el bootstrap en el app.module.ts
+	- Importar el bootstrap como NgbModule -----Importar la libreria 
+3- Configurar el angular.json
+	-Meter en el arreglo style [] la ruta donde se encuentra el bootstrap.min.css (minmificado)
+
+
+
+---------------------------Una vez realizado el proyecto SUBIRLO A GIT
+Se debe crear un nuevo repositorio
+con nombre
+/inmobiliaria
+El repositorio debe SER PUBLICO
+y se debe invitar a descargar,
+manage access -------> landeroej@gmail.com
+
+Crear un nuevo repositorio en GITHUB
+
+De este cargar el proyecto en un NUEVO BRANCH
+llamado  'dev'  (en minusculas)
+cargar el proyecto en este branch.
+Funciones GIT--GIT KRAKEN
+
+git add 
+git push
+git pull
+
+NO TOCAR EL BRANCH MASTER
+en este branch no se subir nada.
+
+-------------------------------------------------------------------------------------
+Para el diseño 
+ser creativo con bootstrap para una pagina de inicio principal
+
+
+
+
+
+
+COTIZAR TIEMPOS!
+
+
+
+
+
